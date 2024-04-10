@@ -1,1 +1,1 @@
-rootProject.name = "sample-java-springboot-gradle"
+rootProject.name = "SE3-LoginAndUserService"

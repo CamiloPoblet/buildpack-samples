@@ -1,10 +1,10 @@
 plugins {
     java
-    id("org.springframework.boot") version "2.4.5"
+    id("org.springframework.boot") version "3.2.4"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
 }
 
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_17
 
 springBoot {
     mainClass.set("demo.DemoApplication")
